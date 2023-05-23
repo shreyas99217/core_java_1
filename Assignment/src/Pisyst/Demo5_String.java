@@ -14,7 +14,7 @@ public class Demo5_String {
 		String ustring =name.toUpperCase();
 		System.out.println(ustring);*/
 		
-		System.out.println(name.substring(2));
+		System.out.println(name.substring(2)); 
 		System.out.println(name.charAt(1));  //finding index to....
 		
 	}
